@@ -1,9 +1,9 @@
-import What from "./components/Mdc";
+import Example from "./components/Example";
 
 export default function App() {
   return (
     <>
-      <What />
+      <Example />
     </>
   );
 }
