@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be840b22-0608-4289-87e0-78d51c2d612f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/setProxy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/practice/git/GitApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/practice/git/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/css/main.e6c13ad2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/css/main.e6c13ad2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/js/787.cda612ba.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/js/787.cda612ba.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/js/main.4a61ee6d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/js/main.4a61ee6d.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/static/static/js/main.4a61ee6d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/practice/git/GitApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2XYMn17AQVm9UVRhVIWvN9JLTC5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "android.gradle.sync.needed": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/sesac_workspace/youngboyclub/test-git",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="GitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="git.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="practice.git.GitApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be840b22-0608-4289-87e0-78d51c2d612f" name="Changes" comment="" />
+      <created>1698801723960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698801723960</updated>
+      <workItem from="1698801727857" duration="62000" />
+      <workItem from="1698801873281" duration="2181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
