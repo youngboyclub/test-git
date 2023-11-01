@@ -1,6 +1,10 @@
-import React from 'react';
-import JoinButton from './components/RSH';
 
+import {Example} from "./components/Kth"
+import JoinButton from './components/RSH'
 export default function App() {
-  return  <JoinButton />;
-};
+  return (
+  <Example/>
+   <JoinButton />;
+  )
+}
+
